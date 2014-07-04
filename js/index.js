@@ -8,7 +8,7 @@ var $el = $('.writer'),
 $el.text('|');
 
 (function typeIt() {   
-    var humanize = Math.round(Math.random() * (10 - 30)) + 0;
+    var humanize = Math.round(Math.random() * (100 - 30)) + 30;
     timeOut = setTimeout(function() {
         char++;
         var type = txt.substring(0, char);
