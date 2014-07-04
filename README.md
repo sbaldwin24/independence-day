@@ -2,7 +2,7 @@ Happy 4th of July!
 
 You can find this one at http://codepen.io/sbaldwin24/pen/nuhJz 
 	OR
-independence.azurewebsites.net
+http://independence.azurewebsites.net
 
 Thank you to:
 
