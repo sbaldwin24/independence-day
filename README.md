@@ -1,8 +1,8 @@
-Happy 4th of July! 
+##Happy 4th of July! 
 
-You can find this one at http://codepen.io/sbaldwin24/pen/nuhJz 
+You can find this one at http://sterlingbaldwin.com/independence-day/ 
 	OR
-http://independence.azurewebsites.net
+http://codepen.io/sbaldwin24/pen/nuhJz
 
 Thank you to:
 
