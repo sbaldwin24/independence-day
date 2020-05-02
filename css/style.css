@@ -5,7 +5,7 @@ html, body {
 canvas {
 	position: absolute;
 	cursor: crosshair;
-	display: hidden;
+	display: none;
 	height: 100%;
 
 }
